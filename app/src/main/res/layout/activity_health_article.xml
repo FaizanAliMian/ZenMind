@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#61A3BD"
+
+    tools:context=".HealthArticle">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#61A3BD"
+        android:gravity="end"
+        android:textAlignment="textEnd"
+        app:title="HEALTH ARTICLE"
+        app:titleTextColor="@color/white">
+    </androidx.appcompat.widget.Toolbar>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:orientation="vertical">
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="none"
+            android:layout_weight="1.0">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:background="@drawable/backgroundcrop"
+                        android:layout_width="match_parent"
+                        android:backgroundTint="#EBFDFF"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="60dp"
+                                android:textColor="@color/black"
+                                android:text="Benefits of Yoga for Stress Relief"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:gravity="center"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+                                <TextView
+                                    android:textColor="@color/black"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/Article1"
+                                    android:textSize="20dp"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.0"/>
+
+
+                    </LinearLayout>
+
+                    <TableLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0dp"
+                        android:background="@color/black">
+
+                    </TableLayout>
+
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:background="@drawable/backgroundcrop"
+                        android:layout_width="match_parent"
+                        android:backgroundTint="#EBFDFF"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                            <TextView
+                                android:textColor="@color/black"
+                                android:layout_width="match_parent"
+                                android:layout_height="60dp"
+                                android:text="Meditation for Better Sleep"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:gravity="center"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+                                <TextView
+                                    android:textColor="@color/black"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/Article2"
+                                    android:textSize="20dp"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.0"/>
+
+
+                    </LinearLayout>
+
+                    <TableLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0dp"
+                        android:background="@color/black">
+
+                    </TableLayout>
+
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:background="@drawable/backgroundcrop"
+                        android:layout_width="match_parent"
+                        android:backgroundTint="#EBFDFF"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                            <TextView
+                                android:textColor="@color/black"
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:text="Yoga for Flexibility and Strength"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:gravity="center"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+                                <TextView
+                                    android:textColor="@color/black"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/Article3"
+                                    android:textSize="20dp"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.0"/>
+
+
+                    </LinearLayout>
+
+                    <TableLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0dp"
+                        android:background="@color/black">
+
+                    </TableLayout>
+
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:background="@drawable/backgroundcrop"
+                        android:layout_width="match_parent"
+                        android:backgroundTint="#EBFDFF"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                            <TextView
+                                android:textColor="@color/black"
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:text="Meditation for Pain Management"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:gravity="center"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+                                <TextView
+                                    android:textColor="@color/black"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/Article4"
+                                    android:textSize="20dp"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.0"/>
+
+
+                    </LinearLayout>
+
+                    <TableLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0dp"
+                        android:background="@color/black">
+
+                    </TableLayout>
+
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:background="@drawable/backgroundcrop"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:backgroundTint="#EBFDFF"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                            <TextView
+                                android:textColor="@color/black"
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:text="Yoga for Heart Health"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:gravity="center"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+                                <TextView
+                                    android:textColor="@color/black"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/Article5"
+                                    android:textSize="20dp"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.0"/>
+
+
+                    </LinearLayout>
+
+                    <TableLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0dp"
+                        android:background="@color/black">
+
+                    </TableLayout>
+
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:background="@drawable/backgroundcrop"
+                        android:layout_width="match_parent"
+                        android:backgroundTint="#EBFDFF"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                            <TextView
+                                android:textColor="@color/black"
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:text="Meditation for Mental Clarity"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:gravity="center"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+                                <TextView
+                                    android:textColor="@color/black"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/Article6"
+                                    android:textSize="20dp"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.0"/>
+
+
+                    </LinearLayout>
+
+                    <TableLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0dp"
+                        android:background="@color/black">
+
+                    </TableLayout>
+
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:background="@drawable/backgroundcrop"
+                        android:layout_width="match_parent"
+                        android:backgroundTint="#EBFDFF"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                            <TextView
+                                android:textColor="@color/black"
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:text="Yoga for Weight Management"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:gravity="center"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+                                <TextView
+                                    android:textColor="@color/black"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/Article7"
+                                    android:textSize="20dp"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.0"/>
+
+
+                    </LinearLayout>
+
+                    <TableLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0dp"
+                        android:background="@color/black">
+
+                    </TableLayout>
+
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:background="@drawable/backgroundcrop"
+                        android:layout_width="match_parent"
+                        android:backgroundTint="#EBFDFF"
+                        android:layout_height="match_parent"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                            <TextView
+                                android:textColor="@color/black"
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:text="Enhancing Immunity with Yoga"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:gravity="center"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+                                <TextView
+                                    android:textColor="@color/black"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/Article8"
+                                    android:textSize="20dp"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.0"/>
+
+
+                    </LinearLayout>
+
+                    <TableLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0dp"
+                        android:background="@color/black">
+
+                    </TableLayout>
+
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:background="@drawable/backgroundcrop"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:backgroundTint="#EBFDFF"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                            <TextView
+                                android:textColor="@color/black"
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:text="Meditation for Better Digestion"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:gravity="center"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+                                <TextView
+                                    android:textColor="@color/black"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/Article9"
+                                    android:textSize="20dp"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.0"/>
+
+
+                    </LinearLayout>
+
+                    <TableLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0dp"
+                        android:background="@color/black">
+
+                    </TableLayout>
+
+
+
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:background="@drawable/backgroundcrop"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:backgroundTint="#EBFDFF"
+                        android:layout_margin="10dp"
+                        android:orientation="horizontal">
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+                            <TextView
+                                android:textColor="@color/black"
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:text=" Meditation for Mental Health"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:gravity="center"/>
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+                                <TextView
+                                    android:textColor="@color/black"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:text="@string/Article10"
+                                    android:textSize="20dp"/>
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.0"/>
+
+
+                    </LinearLayout>
+
+                    <TableLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="1.0dp"
+                        android:background="@color/black">
+
+                    </TableLayout>
+
+
+
+
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730726324687",
+    "project_id": "zen-mind-38778",
+    "storage_bucket": "zen-mind-38778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730726324687:android:aad51ee7c205a6d50e5aba",
+        "android_client_info": {
+          "package_name": "com.example.zenmind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730726324687-dm3v940g1ivhafjnh0oca7om03kj34s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7k1e-goknBHQtNDxPkn-LP8zSryrSWJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730726324687-dm3v940g1ivhafjnh0oca7om03kj34s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray">#808080</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FFA500</color>
+    <color name="purple">#800080</color>
+    <color name="goodcolor">#F1CECE</color>
+    <color name="goodcard">#FFC2B7</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="buttoncolor">#038c8a</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="lavender">#8692f7</color>
+    <color name="card1">#d3ecfe</color>
+    <color name="card2">#ece2fc</color>
+    <color name="card3">#d8edff</color>
+    <color name="card4">#EBFDFF</color>
+    <color name="card5">#d5fef9</color>
+    <color name="card6">#d6fdff</color>
+    <color name="card7">#d0fef1</color>
+    <color name="card8">#d7fdff</color>
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+
+</resources>

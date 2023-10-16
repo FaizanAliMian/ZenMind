@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ZenMind"
+        tools:targetApi="31">
+        <activity
+            android:name=".Music10"
+            android:exported="false" />
+        <activity
+            android:name=".Music9"
+            android:exported="false" />
+        <activity
+            android:name=".Music8"
+            android:exported="false" />
+        <activity
+            android:name=".Music7"
+            android:exported="false" />
+        <activity
+            android:name=".Music6"
+            android:exported="false" />
+        <activity
+            android:name=".Music5"
+            android:exported="false" />
+        <activity
+            android:name=".Music4"
+            android:exported="false" />
+        <activity
+            android:name=".Music3"
+            android:exported="false" />
+        <activity
+            android:name=".Music2"
+            android:exported="false" />
+        <activity
+            android:name=".Music1"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateProfile"
+            android:exported="false" />
+
+        <activity
+            android:name=".BreathScreen"
+            android:exported="false" />
+        <activity
+            android:name=".HealthArticle"
+            android:exported="false" />
+        <activity
+            android:name=".TestTimerAcitivity"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessMP3"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessMP2"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessMP1"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessIP3"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessIP2"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessIP1"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessBP3"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessBP2"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessBP1"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessMaster"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessIntermediate"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessBeginner"
+            android:exported="false" />
+        <activity
+            android:name=".FitnessScreen"
+            android:exported="false" />
+        <activity
+            android:name=".YogaMP6"
+            android:exported="false" />
+        <activity
+            android:name=".YogaMP5"
+            android:exported="false" />
+        <activity
+            android:name=".YogaMP4"
+            android:exported="false" />
+        <activity
+            android:name=".YogaMP3"
+            android:exported="false" />
+        <activity
+            android:name=".YogaMP2"
+            android:exported="false" />
+        <activity
+            android:name=".YogaMP1"
+            android:exported="false" />
+        <activity
+            android:name=".YogaIP6"
+            android:exported="false" />
+        <activity
+            android:name=".YogaIP5"
+            android:exported="false" />
+        <activity
+            android:name=".YogaIP4"
+            android:exported="false" />
+        <activity
+            android:name=".YogaIP3"
+            android:exported="false" />
+        <activity
+            android:name=".YogaIP2"
+            android:exported="false" />
+        <activity
+            android:name=".YogaIP1"
+            android:exported="false" />
+        <activity
+            android:name=".YogaBP6"
+            android:exported="false" />
+        <activity
+            android:name=".YogaBP5"
+            android:exported="false" />
+        <activity
+            android:name=".YogaBP4"
+            android:exported="false" />
+        <activity
+            android:name=".YogaBP3"
+            android:exported="false" />
+        <activity
+            android:name=".YogaBP2"
+            android:exported="false" />
+        <activity
+            android:name=".YogaBP1"
+            android:exported="false" />
+        <activity
+            android:name=".pose1"
+            android:exported="false" />
+        <activity
+            android:name=".MasterScreen"
+            android:exported="false" />
+        <activity
+            android:name=".IntermediateScreen"
+            android:exported="false" />
+        <activity
+            android:name=".BeginnerScreen"
+            android:exported="false" />
+        <activity
+            android:name=".YogaScreen"
+            android:exported="false" />
+        <activity
+            android:name=".StartScreen"
+            android:exported="false" />
+        <activity
+            android:name=".dummy"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileScreen"
+            android:exported="false" />
+        <activity
+            android:name=".ContactCard"
+            android:exported="false" />
+        <activity
+            android:name=".MeditationScreen"
+            android:exported="false" />
+        <activity
+            android:name=".SleepScreen"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".SignupScreen"
+            android:exported="false" />
+        <activity android:name=".NewBreathingActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".LoginScreen"
+            android:exported="false" />
+        <activity android:name=".MusicList"
+            android:exported="false"/>
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

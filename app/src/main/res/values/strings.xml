@@ -1,0 +1,239 @@
+<resources>
+    <string name="app_name">Zen Mind</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="Article1"> Yoga is a powerful practice that can help reduce stress and anxiety. Through a combination of physical postures, deep breathing, and mindfulness, yoga promotes relaxation and a sense of calm. Regular practice has been shown to lower cortisol levels, the body primary stress hormone, leading to improved mental and emotional well-being</string>
+    <string name="Article2">Meditation is an effective tool for improving sleep quality. By calming the mind and reducing racing thoughts, meditation helps individuals fall asleep faster and experience deeper, more restorative sleep. Incorporating meditation into a bedtime routine can be particularly beneficial for those struggling with insomnia</string>
+    <string name="Article3">Yoga is not just about relaxation; it also offers significant physical benefits. Regular yoga practice can increase flexibility, improve balance, and build strength in both the core and peripheral muscles. These physical improvements contribute to better overall health and reduce the risk of injury</string>
+    <string name="Article4">Chronic pain can be challenging to manage, but mindfulness meditation has shown promise in helping individuals cope with pain. By focusing on the present moment and observing pain without judgment, people can develop a healthier relationship with their discomfort, potentially reducing the intensity and impact of chronic pain</string>
+    <string name="Article5">Yoga combination of gentle movements and stress reduction techniques can be beneficial for heart health. Research suggests that yoga may help lower blood pressure, reduce cholesterol levels, and improve cardiovascular function. It iss a valuable addition to a heart-healthy lifestyle</string>
+    <string name="Article6"> In our fast-paced world, maintaining mental clarity is essential. Meditation practices, such as mindfulness and concentration meditation, enhance cognitive function, increase attention span, and boost creativity. Regular meditation can help individuals stay mentally sharp and focused in their daily lives</string>
+    <string name="Article7">Weight management is not just about diet and exercise; it also involves emotional and mental well-being. Yoga and meditation can support weight loss efforts by addressing emotional eating, reducing stress-related weight gain, and promoting a healthier relationship with food and body image</string>
+    <string name="Article8">Stress weakens the immune system, making the body more susceptible to illness. Meditation, especially practices like loving-kindness meditation, can reduce stress and boost immunity. By cultivating positive emotions and reducing the body stress response, meditation helps fortify the body natural defenses</string>
+    <string name="Article9">Digestive problems can be exacerbated by stress and tension. Yoga poses that focus on the abdomen can stimulate digestion, while meditation can relax the digestive system, alleviating issues like irritable bowel syndrome (IBS) and indigestion</string>
+    <string name="Article10">Both yoga and meditation are valuable tools for promoting mental well-being. They can help manage symptoms of depression and anxiety, increase self-awareness, and provide a sense of inner peace. Many mental health professionals recommend these practices as complementary therapies for individuals dealing with various mental health challenges</string>
+
+
+    <string name="dirga_pranayama">Dirga Pranayama: Sit or lie down comfortably. Inhale deeply into your abdomen, then expand your ribcage, and finally fill your chest with air. Exhale in reverse order, releasing air from your chest, ribcage, and abdomen. This technique helps increase oxygen intake and promotes relaxation.</string>
+
+    <string name="ujjayi_pranayama">Ujjayi Pranayama: Inhale and exhale through your nose. Slightly constrict the back of your throat to create a soft, audible \"ocean-like\" sound. This technique is often used in Vinyasa and Ashtanga yoga to help focus the mind and regulate breath.</string>
+
+    <string name="nadi_shodhana_pranayama">Nadi Shodhana (Alternate Nostril Breathing): Sit in a comfortable position. Close your right nostril with your right thumb and inhale through your left nostril. Close your left nostril with your right ring finger and exhale through your right nostril. Inhale through your right nostril, close it, and exhale through your left nostril. This technique helps balance energy and calm the mind.</string>
+
+    <string name="kapalabhati_pranayama">Kapalabhati (Skull Shining Breath): Sit comfortably with a straight back. Take a deep breath in, then forcefully exhale by contracting your abdominal muscles. Inhale passively. This technique is an active breath that is believed to cleanse and energize the body.</string>
+
+    <string name="bhastrika_pranayama">Bhastrika Pranayama (Bellows Breath): Sit comfortably with a straight back. Inhale and exhale forcefully through your nostrils, using your diaphragm to control the breath. This breath helps increase vitality and clear the mind.</string>
+
+    <string name="sheetali_pranayama">Sheetali Pranayama (Cooling Breath): Curl your tongue and inhale slowly through it. Close your mouth and exhale through your nose. This breath cools the body and reduces stress.</string>
+
+    <string name="sheetkari_pranayama">Sheetkari Pranayama (Hissing Breath): Gently clench your teeth and inhale through them. Exhale through your nose. This breath is also cooling and calming.</string>
+
+    <string name="bhramari_pranayama">Bhramari Pranayama (Bee Breath): Sit comfortably with your eyes closed. Close your ears with your thumbs, place your index fingers on your forehead, and rest your other fingers on your closed eyes. Inhale deeply through your nose and exhale while making a humming sound like a bee. This breath can soothe the nervous system and reduce anxiety.</string>
+
+    <string name="sama_vritti">Sama Vritti (Equal Breath): Inhale and exhale for the same count (e.g., inhale for a count of 4, exhale for a count of 4). This breath helps create balance, focus, and relaxation.</string>
+
+    <string name="deep_diaphragmatic_breathing">Deep Diaphragmatic Breathing: Lie on your back with one hand on your chest and the other on your abdomen. Inhale deeply through your nose, allowing your abdomen to rise, and then exhale fully through your mouth, allowing your abdomen to fall. This breath encourages relaxation and full oxygen exchange.</string>
+
+    <string name="pose1">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base ofyour head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
+    <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and hotjust your elbows. Now switch sides and do the same motion on the other side to complete onerep. </string>
+    <string name="pose5">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+    <string name="pose6">    Step 1:- Lie on your back on an exercise mat. With your arms straight at your sides, bend your knees and place your feet flat on the floor between18 and 24 inches apart.\n\n
+                             Step 2:- Breathing out, crunch your ab slightly upward and sideways to the right a couple of inches until your right hand touches your right heel.\n\n
+                             Step 3:- Hold brief|y and then return to your starting position while inhaling. Repeat on the left side. </string>
+
+    <string name="pose7">    Step 1:- You can perform straight-leg crunches by lying face up on the floor with your legs straight and then moving your upper body as you would for a standard bent-knee crunch.\n\n
+                             Step 2:- Alternatively, lie on your back, raise your legs so they are perpendicular to the floor and then perform the standard crunching motion with your torso.
+                             </string>
+    <string name="pose8">    Step 1:- Lie down on the floor placing your feet either under something that Will not move or by having a partner hold them. Your legs should be bent at the kneesPlace your hands behind your head and lock them together by claspihg your fingers. This is the starting position.\n\n
+                             Step 2:- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n\n
+                             Step 3:- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhahng. \n\n
+                             Step 4:- Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose9">    Step 1:- Lying on the back,lift stright leg,extend opposite hand to touch toe. \n\n
+                             Step 2:- Please,return,alternate inhale down,exhale up at toe touch.
+                            </string>
+    <string name="pose10">    Step 1:- High Plank position then slowly rotate your torso to the side raising your arm till it gets ihlihe with the other one. \n\n
+                             Step 2:- Then return to the initial position.
+                            </string>
+    <string name="pose11">    Step 1:- Lie on the floor with elbows directly beneath your shoulders and legs fully extended.\n\n
+                             Step 2:- Raise your torso into the air until it makes a straight line from your shoulders to your ankles. Tighten your stomach, squeeze your butt.
+                            </string>
+    <string name="pose12">    Step 1:- Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees. Elevate your upper body so that it creates an imaginary V-shape with your thighs. \n\n
+                             Step 2:- Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.\n\n
+                             Step 3:- This is the starting position. Twist your torso to the right side until your arms are parallel with the floor while breathing out. \n\n
+                             Step 4:- Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side. Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose13">    Step 1:- Lie on your back with your knees bent, feet flat and hip width. \n\n
+                             Step 2:- Lower your pelvis 2 inches from the floor. Squeeze your glutes and lift your pelvis back to bridge position.
+
+                            </string>
+    <string name="pose14">    Step 1:- Lie facedown on the floor with your arms extended in front of you and your leg extended behind you. \n\n
+                             Step 2:- In one movement,engage your glutes and lower back to raise your arms,legs,and chest off the floor.\n\n
+                             Step 3:- Hold for a count,then slowly return to the starting position.
+                            </string>
+    <string name="pose15">   Step 1:- Stand, extend arms 90° to sides, bend forward 90° at waist.\n\n
+        Step 2:- Looking at the floor, rotate torso to touch hand to foot, rotate for other hand. \n\n </string>
+    <string name="fitness1">  Step 1:-  Stand up first. \n\n
+                                Step 2:-  Put your both hands on the waist. \n\n
+                                Step 3:-  Now bend down your body on one knee forward and one back and do squats like that. </string>
+
+    <string name="fitness2">     Step 1:-  Sit down on the bench of the machine. \n\n
+                                    Step 2:-  Hold the handle of the machine with both hands. \n\n
+                                        Step 3:-  Now pull and oush that handle of machine and do reps.
+</string>
+    <string name="fitness3">  Step 1:-  Sit down on the bench of the machine. \n\n
+                        Step 2:-  Hold the handle with hands and put the feet on the sliding padles. \n\n
+Step 3:-  Now back and forth the paddles with feet and do reps.
+</string>
+    <string name="fitness4">Step 1:-  Stand up in straight position. \n\n
+Step 2:-  Freeze your elbow and hand remain in 90 degree position holding the barbell. \n\n
+Step 3:-  Take up the barbell towards chest slowly and come back and do reps.
+</string>
+    <string name="fitness5">Step 1:-  Hold the handle with your both hands. \n\n
+Step 2:-  Raise your legs from backwards. \n\n
+Step 3:-  Now raise you body and come back and do reps.
+</string>
+    <string name="fitness6">Step 1:-  Stand up in straight position. \n\n
+Step 2:-  Hold the dumbbell in your both hands. \n\n
+Step 3:-  Raise the dumbbells one by one of each hand and do the reps.
+</string>
+    <string name="fitness7">Step 1:-  Lay down on the bench. \n\n
+Step 2:-  Hold the barbell with both hands straight. \n\n
+Step 3:-  Take it to the chest and then back to the position and do reps.
+</string>
+    <string name="fitness8">Step 1:-  Lay down on an inclined bench. \n\n
+Step 2:-  Hold the barbell with both hands straight. \n\n
+Step 3:-  Take it to the chest and then back to the position and do reps
+</string>
+    <string name="fitness9">Step 1:-  Sit down on the one end of the bench of the cable machine. \n\n
+Step 2:-  Hold the cable with both hands. \n\n
+Step 3:-  Now pull it back and forth and do the reps.
+</string>
+    <string name="extended">    Step 1:- Stand in the straight position.\n\n
+                             Step 2:- Raise your left leg until you can easily touch with your hand.\n\n
+                             Step 3:- Touch the fingers of the raised leg and hold it for some seconds. \n\n </string>
+    <string name="half_moon">    Step 1:- Stand wide with legs open.\n\n
+
+Step 2:- Bend down and touch one of your widen foot.\n\n
+                             Step 3:- Now make your other arm align to the one that touches the foot and make 180 degree angle. </string>
+    <string name="half_standing">    Step 1:- Stand  and extend your both arms straight.\n\n
+                             Step 2:- Bend down and touch your feet with your both hand eventually it stretches your body.</string>
+    <string name="salute">    Step 1:- Stand straight and close the both hand together. \n\n
+                             Step 2:- Take the close hands to the chest making it a salute.
+</string>
+    <string name="tree_pose">   Step 1:- Stand straight widen your feet a bit. \n\n
+                             Step 2:- Close your both hands and take them to the chest.\n\n
+                             Step 3:- In this position, just widen your feet and legs a bit\n\n
+                            </string>
+    <string name="upward_salute">    Step 1:- Stand in the straight position.\n\n
+                             Step 2:- Close your both hands together.\n\n
+                             Step 3:- Take the both close hands to the top of your hand and straight them making up a salute. </string>
+
+
+    <string name="equestrian_pose">    Step 1:- Sit down on your one feet and stretches your other leg backwards.\n\n
+                             Step 2:- Bend down a bit and touches the sides of your front feet with your hands.
+                             </string>
+    <string name="garland_pose">    Step 1:- Sit down on the hip with one leg straight and one roll backwards.\n\n
+                             Step 2:- Put of both hands beneath the straight leg and elevate it by taking hands from thigh to toe .
+ </string>
+    <string name="hero_pose">    Step 1:- Sit down with your legs straight. \n\n
+                             Step 2:- Put your one arm on one of your knee and elevate both making a salute.
+                            </string>
+    <string name="lotus_peacock">    Step 1:- Bend down and put your both hands on the ground. \n\n
+                             Step 2:- Raise your whole body lifting feet too on the hand on ground.
+                            </string>
+    <string name="super_fish">    Step 1:- Stand up straight.\n\n
+                             Step 2:- Stretches your body and take your hands to the toe and also bend whole the body and head.
+                            </string>
+    <string name="Warrior">    Step 1:- Sit down on one of your feet and other leg stretched backward. \n\n
+                             Step 2:- Close your hands together.\n\n
+                             Step 3:- Take the close hand over the head and stretches them making a salute.
+</string>
+    <string name="backward_stretch">    Step 1:- Bend down on your knees. \n\n
+                             Step 2:- Stretches your body fully leaning backward.\n\n
+Step 3:- Now take the hands in the stretched position to the lower backward side make them touch the feet
+
+                            </string>
+    <string name="crane_pose">    Step 1:- Stretches your body fully and make your hands toch the ground from the backward side. \n\n
+                             Step 2:- Now in this position, raise your one of the leg.
+                            </string>
+    <string name="downward_facing">   Step 1:- Lay down in the push up position.\n\n
+                             Step 2:- Squeeze your body from the hand size and also lower your head.
+. </string>
+    <string name="oneleg">   Step 1:- Stand up straight and put your one leg on the other.\n\n
+                             Step 2:- Bend down a bit and close your hands together making a salute.
+. </string>
+    <string name="pushup">   Step 1:- Lay down in the simple push up position and do the reps.
+. </string>
+    <string name="triangle_pose">   Step 1:- Stand up straight and bend your body and touch ground with the hands.\n\n
+                             Step 2:- Now in this position, raise one of your legs from the backward.
+. </string>
+    <string-array name="quotes">
+
+        <item>Breathe in slowly through your nose for a count of 4.</item>
+        <item>Breathe in deeply and exhale slowly, each for a count of 4.</item>
+        <item>Inhale deeply through your nose, hold for 4 seconds, and exhale.</item>
+        <item>Take a slow breath in through your nose for a count of 4.</item>
+        <item>Exhale slowly through your mouth for a count of 4.</item>
+        <item>Breathe in deeply, expanding your lungs, for 4 counts.</item>
+        <item>Exhale all the air from your lungs slowly for 4 seconds.</item>
+        <item>Inhale gently through your nostrils, counting to 4.</item>
+        <item>Take a deep breath in, and exhale completely, each for a count of 4.</item>
+        <item>Breathe in slowly through your nose, feeling the air fill your chest for 4 seconds.</item>
+        <item>Exhale smoothly through your mouth, releasing all tension, for a count of 4.</item>
+        <item>Inhale deeply and evenly through your nose for 4 counts.</item>
+        <item>Breathe in serenely through your nasal passages for 4 seconds.</item>
+        <item>Exhale slowly and completely, letting go of stress, for a count of 4.</item>
+        <item>Inhale tranquilly through your nose, counting to 4.</item>
+        <item>Take a slow, calming breath for a count of 4.</item>
+        <item>Draw in a deep breath through your nose and exhale gently, each for 4 counts.</item>
+        <item>Breathe in slowly, counting to 4, and find your inner peace.</item>
+        <item>Exhale all the air from your lungs, releasing any tension, for a count of 4.</item>
+        <item>Inhale deeply through your nose, filling your body with calmness for 4 seconds.</item>
+        <item>Breathe out slowly and evenly, letting go of worries, for a count of 4.</item>
+        <item>Exhale gently through your mouth, clearing your mind, for 4 counts.</item>
+        <item>Inhale slowly through your nostrils, focusing on the present moment for 4 seconds.</item>
+        <item>Take a serene breath in for a count of 4.</item>
+        <item>Exhale peacefully through your mouth, letting go of stress, for a count of 4.</item>
+        <item>Breathe in deeply and exhale slowly, finding your center, each for a count of 4.</item>
+        <item>Inhale slowly through your nose, counting to 4, and find tranquility.</item>
+        <item>Exhale all your concerns, slowly and deliberately, for 4 counts.</item>
+        <item>Breathe in gently through your nostrils, bringing calmness into your body for 4 seconds.</item>
+        <item>Exhale slowly through your mouth, releasing tension, each for a count of 4.</item>
+        <item>Inhale deeply, counting to 4, and allow peace to enter your being.</item>
+        <item>Breathe in serenely through your nasal passages, focusing on the breath for 4 seconds.</item>
+        <item>Exhale all worries, slowly and completely, for a count of 4.</item>
+        <item>Inhale tranquilly through your nose, finding stillness within, for 4 counts.</item>
+        <item>Exhale gently through your mouth, letting go of stress, for a count of 4.</item>
+        <item>Breathe in deeply through your nose, counting to 4, and find your inner calm.</item>
+        <item>Exhale all tension, slowly and evenly, for a count of 4.</item>
+        <item>Inhale slowly through your nostrils, embracing the present moment for 4 seconds.</item>
+        <item>Take a calm breath in for a count of 4.</item>
+        <item>Exhale peacefully through your mouth, releasing all worries, for a count of 4.</item>
+        <item>Breathe in deeply and exhale slowly, finding serenity, each for a count of 4.</item>
+        <item>Inhale slowly through your nose, counting to 4, and let go of all stress.</item>
+        <item>Exhale all concerns, slowly and deliberately, for 4 counts.</item>
+        <item>Breathe in gently through your nostrils, bringing calmness into your being for 4 seconds.</item>
+        <item>Exhale slowly through your mouth, releasing all tension, each for a count of 4.</item>
+        <item>Inhale deeply, counting to 4, and embrace the peace within.</item>
+        <item>Breathe in serenely through your nasal passages, finding tranquility, for 4 seconds.</item>
+        <item>Exhale all worries, slowly and completely, for a count of 4.</item>
+
+    </string-array>
+
+</resources>
